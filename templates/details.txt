@@ -5,6 +5,10 @@ Bhaktapur Multiple Campus, Doodhpati-17, Bhaktapur
 Sambriddhi College, Lokanthali-16, Bhaktapur
 Swastik College, Madhyapur Thimi-3, Bhaktapur
 Kathmandu College of Technology, Lokanthali, Bhaktapur
+SeaBird International College, Madhyapur Thimi, Bhaktapur 
+Janapremi College, Kaushaltar, Bhaktapur  
+Bagiswori College, Kamalbinayak, Bhaktapur
+Kathmandu World School, Suryabinayak, Bhaktapur 
 ISMT College, Tinkune, Kathmandu  
 Deerwalk Institute of Technology, Sifal, Kathmandu
 The British College, Thapathali, Kathmandu
@@ -31,6 +35,19 @@ Vedas College, Jawalakhel, Lalitpur
 Virinchi College, Kumaripati, Lalitpur
 Asian College of Higher Studies, Ekantakuna Rd, Lalitpur
 Lalitpur Engineering Campus, Patan-Dhoka, Lalitpur
+Shree Shreekhandapur Secondary School, Dhulikhel, Kavre
+Sanjiwani Higher Secondary School, Dhulikhel, Kavre
+Dhulikhel Campus, Dhulikhel, Kavre
+Bal Batika Vidhya Mandir, Tindobato, Banepa
+Baylor International Academy, Banepa-10, Kavre
+Adarsha Bidya Mandir School, Banepa-11, Kavre
+Nightingale Academy, Banepa-10, Kavre
+Kabhre Multiple Campus, Budol, Banepa
+NIST College, Banepa-9, Kavre
 Nepal Banepa Polytechnic Institute, Banepa-2, Kavre
+Siddhartha College, Banepa-8, Kavre
+Malpi International School, Panauti, Kavre
+Indreshwor Secondary School, Panauti, Kavre
+SOS Children Village, Panauti, Kavre
 Tej Ganga Multiple Campus, Panauti, Kavre
-
+Siddhartha Vanasthali Institute, Panauti, Kavre
